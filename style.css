@@ -157,7 +157,7 @@ button.btn-next.btn-five {
 .img-k {
     width: 100vw;
     height: 100vh;
-    background-image: url("img/main-2.png");
+    background-image: url("img/main-8.png");
     background-size: cover;
     background-position: center;
 }
@@ -192,4 +192,10 @@ button.btn-next.btn-five {
     bottom: 0;
     position: fixed;
     opacity: 0.1;
+}
+
+.btn-info {
+    position: absolute;
+    right: 0;
+    opacity: 0;
 }
